@@ -24,9 +24,13 @@ The NLP model can be downloaded [here](https://catalog.ngc.nvidia.com/orgs/nvidi
   > ```{"output":"Hello, how are you?"}```  
 
 - ```http://localhost:8080/restorePunct?text=hello how are you```
-  > ```{"output":[{"index":0,"label":",","word":"hello"},{"index":3,"label":"?","word":"you"}]}```     
+  > ```{"output":[{"index":0,"label":",","word":"hello"},{"index":3,"label":"?","word":"you"}]}```    
+  <pre>
+  
+  
+  </pre>
 
 
-I hope you find this applcation helpful. If you face issues, please create an issue with your inputs. Thank you! :)   <br/>
+I hope you find this application helpful. If you face issues, please let me know at huzaifakhan771@gmail.com. Thank you! :)
 
 Enjoy :blush:
